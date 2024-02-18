@@ -1,1 +1,1 @@
-console.log("Adding feature 2")
+console.log("Adding feature 2 and cherry picking this feature to master")

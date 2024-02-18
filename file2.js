@@ -1,1 +1,1 @@
-console.log('adding new feature')
+console.log('adding new feature and cherry picking this feature to master')
